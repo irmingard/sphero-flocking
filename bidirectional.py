@@ -155,7 +155,7 @@ if __name__ == '__main__':
                     bt_error_restart = False
                     break
                 elif switch.lower().startswith("n"):
-                    print """Restarting BlueTooth setup. If it does not work the next time, try restarting 
+                    print """Restarting Bluetooth setup. If it does not work the next time, try restarting
                     the script, the robots or turn your laptop's Bluetooth on and off!\n"""
                     bt_error_restart = True
                     sphero_helper.disconnect_spheros(sphero_array)

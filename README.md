@@ -1,7 +1,7 @@
 # Requirements
 
 * Ubuntu 12.04
-* BlueTooth
+* Bluetooth
 * One or more Sphero 2.0 robots
 
 ## Installing Ubuntu 12.04
